@@ -12,7 +12,7 @@ const port = process.env.PORT || 8080;
   const portfolio = require("./JSON/Portfolio.json");
 
 
-});
+
 app.get("/", (req, res) => {
   res.json(about);
 });
@@ -28,3 +28,5 @@ app.get("/portfolio", (req, res) => {
 
 app.listen(port, () => {
     console.log(`Server on : ${port}`);
+    
+});
