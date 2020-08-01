@@ -6,8 +6,12 @@ app.use(cors());
 
 const port = process.env.PORT || 8080;
 
-app.listen(port, () => {
-  console.log(`Server on : ${port}`);
+
+
+  const about = require("./JSON/About.json");
+  const portfolio = require("./JSON/Portfolio.json");
+
+
 });
 app.get("/", (req, res) => {
   res.json(about);
@@ -20,3 +24,7 @@ app.get("/about", (req, res) => {
 app.get("/portfolio", (req, res) => {
   res.json(portfolio);
 });
+
+
+app.listen(port, () => {
+    console.log(`Server on : ${port}`);
