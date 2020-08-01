@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Proyecto 1",
+        "description": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito",
+        "image": "https://i.ibb.co/r2bPYNG/20200710-145955-308-2.jpg",
+        "link" : "https://github.com/CamilaKrioka"
+    },
+    {
+        "name": "Proyecto 2",
+        "description": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito",
+        "image": "https://i.ibb.co/r2bPYNG/20200710-145955-308-2.jpg",
+        "link": "https://github.com/CamilaKrioka"
+    }
+
+]

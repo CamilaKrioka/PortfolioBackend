@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Camila Krioka",
+        "profession" : "Full Stack Developer",
+        "photo" : "https://i.ibb.co/r2bPYNG/20200710-145955-308-2.jpg",
+        "about_me" : "Soy una entusiasta de las tecnologías, amo hacer desarrollo web y confío en la colaboración entre comunidades para lograr un mejor ecosistema en el ámbito de la tecnología.",
+        "skills": [
+        "Javascript",
+        "NodeJs",
+        "ReactJS",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "Java"
+        ]
+    }
+]
